@@ -16,4 +16,4 @@ set_global_assignment -name SYSTEMVERILOG_FILE rtl/hps2pad.sv
 set_global_assignment -name SYSTEMVERILOG_FILE rtl/hps2cdd.sv
 set_global_assignment -name SDC_FILE Saturn.sdc
 set_global_assignment -name SYSTEMVERILOG_FILE Saturn.sv
-
+set_global_assignment -name SYSTEMVERILOG_FILE rtl/llapi.sv
